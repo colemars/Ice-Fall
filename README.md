@@ -1,17 +1,17 @@
 # _Avoid Falling Objects Mini Game_
 
-#### _Simple avoid objects browser based game_
+#### _An avoid objects browser based game_
 
 #### By _**J. Michael Brown, Miles Bradt, Cole Marsteller, Blake Gotting**_
 
 ## Description
 
-_Using basic JavaScript, CSS, and HTML5 elements we crated a mini game in which you dodge falling icicles ._  
+_Using JavaScript, CSS, and HTML5 Canvas we crated a mini game in which you dodge falling icicles._  
 
 
 ## Setup/Installation Requirements
 
- _Requires git to be downloaded on your devise to use instructed git terminal commands._
+ _Requires git to be downloaded on your device to use instructed git terminal commands._
 
  _1. Open your terminal (command+spacebar on homepage for mac, to search for "terminal")_
 
